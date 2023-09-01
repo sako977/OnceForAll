@@ -1,4 +1,4 @@
-# Fortius/Once For ALL code challenge
+# Fortius/OnceForALL code challenge
 
 
 
